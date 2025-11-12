@@ -1,0 +1,4 @@
+[package]
+name = "APPLICATION_NAME"
+version = "APPLICATION_VERSION"
+edition = "2024"
